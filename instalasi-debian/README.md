@@ -100,3 +100,4 @@
     ![alt](./assets/47.png)
 45. Tunggu instalasi software hingga selesai.
     ![alt](./assets/48.png)
+46. Debian telah diinstal
